@@ -11,7 +11,7 @@ const HomePage = () => {
       component="main"
       sx={{
         height: '100vh',
-        backgroundImage: `url("https://pixabay.com/get/gf661d44656ecd89f47e2829443006960939310d68c7e03ed18a29657ee9ea1db7740dc8ccea2d46807330cd94b64828906cfec3e938b0c088b94db1be893764a_1920.jpg")`,
+        backgroundImage: `url("https://pixabay.com/get/g972f53e45937e65b544148a3822a32514af6772e10cc69c67478db3aa836afa20f171b08b932057e03ee8a4e0a42847ec1217559d4dff176789fb33423ace158_1920.jpg")`,
         backgroundRepeat: 'no-repeat',
         backgroundColor: t =>
           t.palette.mode === 'light' ? t.palette.grey[50] : t.palette.grey[900],
