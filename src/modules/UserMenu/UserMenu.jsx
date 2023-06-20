@@ -15,7 +15,7 @@ export const UserMenu = () => {
       <p>Welcome, {user.name}</p>
 
       <Chip
-        label="LogOut"
+        label="Logout"
         variant="outlined"
         onClick={handleLogOut}
         sx={{

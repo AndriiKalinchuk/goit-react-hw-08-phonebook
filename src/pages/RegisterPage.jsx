@@ -61,7 +61,7 @@ export default function RegisterPage() {
         component="main"
         sx={{
           height: '100vh',
-          backgroundImage: `url("https://pixabay.com/get/g5e60861c2b383e22ee523536420c8ed5e3d20727f265f01c93e784309cf0b85b96dea97b051deed8776e390c106b2949005fa85b63ebb3b324b3c1b8e0d3d490_1920.jpg")`,
+          backgroundImage: `url("https://pixabay.com/get/ga2bb7c3dfd1152abc224fc2d88e0d0f9f7aa59c43aa62e9afdb79eaf767ad78f04dea3e5474852a7e0f181b8df63f2a1b4d064f4d89036f1310267c0e7112300_1920.jpg")`,
           backgroundRepeat: 'no-repeat',
           backgroundColor: t =>
             t.palette.mode === 'light'
